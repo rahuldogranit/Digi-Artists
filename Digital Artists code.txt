@@ -1,0 +1,3 @@
+﻿<script async src="https://serving.stat-rock.com/player/demo.js"></script>
+<script data-playerPro="current">(function(){var s=document.querySelector('script[data-playerPro="current"]');s.removeAttribute("data-playerPro");(playerPro=window.playerPro||[]).push({id:"1LmZDMGQ1W4i",after:s});})();</script>
+
